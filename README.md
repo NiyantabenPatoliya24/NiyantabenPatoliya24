@@ -1,5 +1,12 @@
 <h1 align="center">Hallo 👋, Ich bin Niyantaben Patoliya</h1>
 <h3 align="center">Full-Stack Softwareentwicklerin</h3>
+## 📫 Lass uns vernetzen!
+Ich freue mich darauf, mich mit anderen Softwareentwicklern, Entwicklern und Technikbegeisterten auszutauschen!  
+Wenn du Ideen teilen, zusammenarbeiten oder einfach über Technologie sprechen möchtest, kontaktiere mich gerne über:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyantaben-patoliya-07007b164)  
+[![E-Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyanta.patoliya95@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://niyantabenpatoliya24.github.io)
 
 <h3 align="left">Kontaktieren Sie mich</h3>
 <p align="left">
