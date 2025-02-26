@@ -4,13 +4,9 @@
 Erfahren in der Entwicklung von mobilen Apps mit Android Studio (Java) und Backend-APIs mit PHP und MySQL.
 Ein Beispielprojekt ist die „FoodLine“-App, die Catering-Services ermöglicht.
 Ich habe auch Erfahrung mit ASP.NET, C# und der Entwicklung von Websites.
-Ich bin AWS Certified Cloud Practitioner und vertiefe mein Wissen in Cloud-Technologien.
+Ich bin <b>AWS</b> Certified Cloud Practitioner und vertiefe mein Wissen in Cloud-Technologien.
 Aktuell erweitere ich meine Fähigkeiten in Python, Flask, Django und SQL-Datenbanken.Ständig auf der Suche nach neuen Herausforderungen und Möglichkeiten zur Weiterbildung.
-Ich bin stets offen für Zusammenarbeit und Austausch./p>
-
-
-
-
+Ich bin stets offen für Zusammenarbeit und Austausch.</p>
 
 
 <h2>📫 Kontaktieren Sie mich!</h2>
